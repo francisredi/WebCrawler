@@ -1,0 +1,23 @@
+
+[indentation]
+indent_width=4
+indent_type=0
+indent_hard_tab_width=4
+detect_indent=false
+indent_mode=2
+
+[project]
+name=crawler-project
+base_path=/home/atif/Desktop/Crawler/slave
+make_in_base_path=true
+description=
+run_cmd=python slave-crawler.py
+
+[files]
+current_page=3
+FILE_NAME_0=323;Python;0;16;1;1;0;/home/atif/Desktop/Crawler/slave/slave-crawler.py;0
+FILE_NAME_1=288;Python;0;16;1;1;0;/home/atif/Desktop/Crawler/slave/config.py;0
+FILE_NAME_2=2261;Python;0;16;0;1;0;/home/atif/Desktop/Crawler/slave/reducerEvent.py;0
+FILE_NAME_3=10202;Python;0;16;0;1;0;/home/atif/Desktop/Crawler/slave/async_httpSlave.py;0
+FILE_NAME_4=1576;Python;0;16;0;1;0;/home/atif/Desktop/Crawler/event single final/crawler.py;0
+FILE_NAME_5=1401;Python;0;16;0;1;0;/home/atif/Desktop/Crawler/slave/urlDS.py;0
